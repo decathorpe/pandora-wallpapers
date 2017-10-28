@@ -1,5 +1,8 @@
 # Photos from unsplash.com are in the Public Domain
 
+### Carmine De Fazio.jpg
+<https://unsplash.com/photos/3ytjETpQMNY>
+
 ### Jay Ruzesky.jpg:
 <https://unsplash.com/photos/h13Y8vyIXNU>
 
